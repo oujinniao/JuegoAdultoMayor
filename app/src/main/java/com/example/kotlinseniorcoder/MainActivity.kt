@@ -2,11 +2,6 @@ package com.example.kotlinseniorcoder
 
 import android.content.Intent
 import android.os.Bundle
-
-import com.example.kotlinseniorcoder.AccessibilityActivity
-import com.example.kotlinseniorcoder.ChallengeActivity
-import com.example.kotlinseniorcoder.ProgressActivity
-import com.example.kotlinseniorcoder.TutorialActivity
 import androidx.appcompat.app.AppCompatActivity
 import com.example.kotlinseniorcoder.databinding.ActivityMainBinding
 
