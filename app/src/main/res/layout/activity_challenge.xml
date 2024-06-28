@@ -12,24 +12,24 @@ android:layout_width="match_parent"
 android:layout_height="match_parent"
 android:orientation="vertical"
 android:padding="16dp"
-android:background="@color/background">
+android:background="@color/white">
 
 <TextView
     android:id="@+id/challengeDescription"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
     android:text="Descripción del Desafío"
-    android:textSize="20sp"
-    android:textColor="@color/background"
+    android:textSize="24sp"
+    android:textColor="@color/black"
     android:layout_marginBottom="16dp"/>
 
 <EditText
     android:id="@+id/codeArea"
     android:layout_width="match_parent"
     android:layout_height="200dp"
-    android:background="@color/codeBackground"
+    android:background="@color/white"
     android:textColor="@color/black"
-    android:textSize="16sp"
+    android:textSize="26sp"
     android:gravity="top"
     android:layout_marginBottom="16dp"
     android:padding="8dp"
